@@ -13,7 +13,7 @@ A tool for managing animations in Blender, featuring action selection, batch ren
   - Push actions to NLA
   - Action deletion
 
-- [View on GitHub]([https://github.com/yourusername/blender-animation-manager](https://github.com/evilmushroom/blender-AnimationManager)
+- [View on GitHub](https://github.com/evilmushroom/blender-AnimationManager)
 
 ### 2. [Batch FBX Exporter]
 A tool for batch exporting multiple animations and objects to separate FBX files, with export settings optimized for Unreal Engine.
@@ -23,7 +23,7 @@ A tool for batch exporting multiple animations and objects to separate FBX files
   - Custom export settings for Unreal Engine.
   - User-friendly interface for quick selection and export.
 
-- [View on GitHub]([https://github.com/yourusername/blender-batch-fbx-exporter](https://github.com/evilmushroom/batch-fbx-exporter)
+- [View on GitHub](https://github.com/evilmushroom/batch-fbx-exporter)
 
 ## How to Install
 
@@ -36,5 +36,5 @@ A tool for batch exporting multiple animations and objects to separate FBX files
 
 ## Contributions and Support
 
-Feel free to contribute to either add-on by visiting their respective repositories. If you encounter any issues or have suggestions, please open an issue in the [issue tracker](https://github.com/yourusername/blender-tools-bundle/issues).
+Feel free to contribute to either add-on by visiting their respective repositories.
 
