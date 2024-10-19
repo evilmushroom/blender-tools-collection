@@ -1,4 +1,4 @@
-# Blender Tools Bundle
+# Blender Tools Collection
 
 This repository serves as a central hub for two Blender add-ons designed to streamline animation and export workflows. Each add-on can be downloaded and installed individually.
 
