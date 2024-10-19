@@ -4,7 +4,7 @@ This repository serves as a central hub for two Blender add-ons designed to stre
 
 ## Included Add-ons
 
-### 1. [Animation Manager]([https://github.com/yourusername/blender-animation-manager](https://github.com/evilmushroom/blender-AnimationManager)
+### 1. [Animation Manager]
 A tool for managing animations in Blender, featuring action selection, batch renaming, NLA operations, and more.
 
 - **Features**:
@@ -15,7 +15,7 @@ A tool for managing animations in Blender, featuring action selection, batch ren
 
 - [View on GitHub]([https://github.com/yourusername/blender-animation-manager](https://github.com/evilmushroom/blender-AnimationManager)
 
-### 2. [Batch FBX Exporter]([https://github.com/yourusername/blender-batch-fbx-exporter](https://github.com/evilmushroom/batch-fbx-exporter)
+### 2. [Batch FBX Exporter]
 A tool for batch exporting multiple animations and objects to separate FBX files, with export settings optimized for Unreal Engine.
 
 - **Features**:
