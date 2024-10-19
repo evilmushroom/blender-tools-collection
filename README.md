@@ -8,6 +8,7 @@ This repository serves as a central hub for two Blender add-ons designed to stre
 A tool for managing animations in Blender, featuring action selection, batch renaming, NLA operations, and more.
 
 - **Features**:
+  - Creating new Actions
   - Action selection and renaming
   - Batch action renaming
   - Push actions to NLA
