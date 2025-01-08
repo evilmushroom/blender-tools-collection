@@ -24,6 +24,16 @@ A tool for batch exporting multiple animations and objects to separate FBX files
   - User-friendly interface for quick selection and export.
 
 
+ ## 3. [Quick Playblast](https://github.com/evilmushroom/Quick_Playblast)
+The Quick Playblast Addon enables you to create high-quality viewport animation previews (playblasts) with optional audio. Perfect for animators who need fast results without complex rendering setups.
+
+### Features:
+- **Fast Playblast Creation**: Generate quick animation previews from the viewport.
+- **Multiple Output Formats**:
+- **Audio Support**: Include scene audio in your playblast with adjustable volume.
+- **Automatic File Naming**: Organizes outputs with timestamped filenames.
+
+
 ## How to Install
 
 1. Click the links above to visit the GitHub page of the add-on you'd like to install.
