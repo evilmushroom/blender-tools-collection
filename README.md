@@ -44,6 +44,21 @@ The Weight Sync Manager Addon simplifies vertex weight management by enabling yo
   - **Validation**: Ensures vertex counts and weights match between the mesh and the file.
   - **Clear Weight File**: Remove the active weight file and disable syncing.
 
+ ### 5. [World Transform Display and Edit](https://github.com/evilmushroom/World_Transform_Display)
+
+This addon provides an intuitive way to **display, copy, paste, and edit world transforms** for objects and bones in Blender. It allows precise control over transformations with features like **axis locking** and **undo functionality**, making it ideal for animators and riggers.
+
+---
+
+## Features
+
+- **Display World Transforms**
+- **Edit World Transforms**:
+- **Copy and Paste World Transforms**
+- **Apply and Undo Transforms**
+- **Axis Locking**
+
+
 ## How to Install
 
 1. Click the links above to visit the GitHub page of the add-on you'd like to install.
