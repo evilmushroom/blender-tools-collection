@@ -58,6 +58,15 @@ This addon provides an intuitive way to **display, copy, paste, and edit world t
 - **Apply and Undo Transforms**
 - **Axis Locking**
 
+### 6. [FCurve Smooth Brush](https://github.com/evilmushroom/FCurve_Smooth_Brush)
+The FCurve Smooth Brush Add-on revolutionizes keyframe editing in Blender's Graph Editor, providing an intuitive brush tool to interactively smooth, sharpen, and manipulate animation curves.
+
+Features:
+Interactive Curve Editing: Smooth, sharpen, or add noise to FCurves directly in the Graph Editor.
+Customizable Brush Settings: Adjust size, strength, and falloff types (constant, linear, smooth).
+Multiple Brush Modes: Includes smooth, noise, flatten, sharpen, and relax modes.
+Tablet Pressure Support: Utilize pen pressure for dynamic adjustments.
+Undo/Redo System: Tailored for dense animation workflows.
 
 ## How to Install
 
