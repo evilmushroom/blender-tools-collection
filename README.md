@@ -68,6 +68,17 @@ Multiple Brush Modes: Includes smooth, noise, flatten, sharpen, and relax modes.
 Tablet Pressure Support: Utilize pen pressure for dynamic adjustments.
 Undo/Redo System: Tailored for dense animation workflows.
 
+### 7. [Animation retimer](https://github.com/evilmushroom/AnimationRetimer)
+A powerful tool for adjusting animation timing dynamically using timeline markers. Animation Retimer allows animators to stretch or compress animation segments in real time while preserving keyframe structure and interpolation.
+
+Features:
+- Add and manage retiming markers.
+- Drag markers to adjust animation timing dynamically.
+- Maintain keyframe integrity and interpolation.
+- Undo support for safe experimentation.
+- Apply or discard changes with a single click.
+- Integrated UI in the Dope Sheet Editor.
+
 ## How to Install
 
 1. Click the links above to visit the GitHub page of the add-on you'd like to install.
